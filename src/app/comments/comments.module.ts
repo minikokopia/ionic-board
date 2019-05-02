@@ -9,9 +9,6 @@ import { CommentsPage } from './comments.page';
 
 const routes: Routes = [
   {
-    path: '',
-    component: CommentsPage
-  }
 ];
 
 @NgModule({
